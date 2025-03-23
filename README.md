@@ -2,6 +2,7 @@
 workout mapping webapp
 
 ### LIVE DEMO [HERE](https://alexplokhikh.github.io/Mapty/)
+![2025-03-23 15_44_36-mapty __ Map your workouts](https://github.com/user-attachments/assets/b60a283c-faf3-4e35-aba4-d1af9ecfe8b2)
 
 ## Technologies
 
